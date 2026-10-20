@@ -6,7 +6,7 @@
     "size": 63674152
   },
   "launcher": {
-    "version": "0.1.0",
-    "url": "https://github.com/JoddabodScripts/allay-releases/blob/main/launcher/allay-launcher-0.1.0-x86_64.AppImage"
+    "version": "0.2.0",
+    "url": "https://github.com/JoddabodScripts/allay-releases/blob/main/launcher/allay-launcher-0.2.0-x86_64.AppImage"
   }
 }

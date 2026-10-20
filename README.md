@@ -4,7 +4,7 @@ Allay Client is an all-in-one Fabric client for Minecraft 26.2 and 26.3.
 
 ## Get it
 
-On Linux, download the [Allay Launcher AppImage](https://github.com/JoddabodScripts/allay-releases/raw/main/launcher/allay-launcher-0.1.0-x86_64.AppImage), make it executable (`chmod +x allay-launcher-*.AppImage`), and run it.
+On Linux, download the [Allay Launcher AppImage](https://github.com/JoddabodScripts/allay-releases/raw/main/launcher/allay-launcher-0.2.0-x86_64.AppImage), make it executable (`chmod +x allay-launcher-*.AppImage`), and run it.
 
 The launcher downloads Java, Minecraft, Fabric and the newest Allay Client by itself. It keeps everything in `~/.allay` and never touches `.minecraft`. Sign in with the account you use in Modrinth App, or play offline in singleplayer.
 
