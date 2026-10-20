@@ -1,9 +1,9 @@
 {
   "allay": {
-    "version": "0.4.6",
-    "url": "https://raw.githubusercontent.com/JoddabodScripts/allay-releases/main/allay/allay-client-0.4.6.jar",
-    "sha1": "b14cf24ca8f7455982842a18595f8954f2527bdf",
-    "size": 63675481
+    "version": "0.4.7",
+    "url": "https://raw.githubusercontent.com/JoddabodScripts/allay-releases/main/allay/allay-client-0.4.7.jar",
+    "sha1": "64b969486d693ab8840d3a93df71521f33ac3e78",
+    "size": 63699972
   },
   "launcher": {
     "version": "0.2.1",
