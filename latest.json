@@ -1,0 +1,12 @@
+{
+  "allay": {
+    "version": "0.4.5",
+    "url": "https://github.com/JoddabodScripts/allay-releases/releases/download/allay-0.4.5/allay-client-0.4.5.jar",
+    "sha1": "531def3f1e142999581d371d1babdd23dad2f99a",
+    "size": 63674152
+  },
+  "launcher": {
+    "version": "0.1.0",
+    "url": "https://github.com/JoddabodScripts/allay-releases/releases/tag/launcher-0.1.0"
+  }
+}
